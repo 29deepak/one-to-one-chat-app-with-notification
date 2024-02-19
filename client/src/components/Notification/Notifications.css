@@ -1,0 +1,19 @@
+.notification-container {
+    display: flex;
+}
+
+.mark-as {
+    cursor: pointer;
+    color: gold;
+    background-color: black;
+}
+
+.notification {
+    color: rgb(0, 255, 115);
+}
+
+.not-read {
+    color: rgb(25, 225, 225);
+}
+
+
